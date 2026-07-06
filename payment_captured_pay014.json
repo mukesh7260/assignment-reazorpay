@@ -1,0 +1,15 @@
+{
+  "event": "payment.captured",
+  "payload": {
+    "payment": {
+      "entity": {
+        "id": "pay_014",
+        "status": "captured",
+        "amount": 5000,
+        "currency": "INR"
+      }
+    }
+  },
+  "created_at": 1751889923,
+  "id": "evt_cap_014"
+}

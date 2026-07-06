@@ -1,0 +1,13 @@
+{
+  "id": "WH-58D329510W468432W",
+  "event_type": "PAYMENT.CAPTURE.COMPLETED",
+  "resource": {
+    "id": "3C679366NW443042N",
+    "status": "COMPLETED",
+    "amount": {
+      "currency_code": "USD",
+      "value": "50.00"
+    }
+  },
+  "create_time": "2025-07-08T12:15:33.000Z"
+}
